@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7dcc9aa0f7aa26747921a600bcee6913
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fireballPrefab: {fileID: 4457809860843635011, guid: 562c1525e7ec47f47b6b1464e7ff8853, type: 3}
+  - player: {fileID: 6602610917320426784, guid: cc7a028492bde6341a9ebb293342050b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
